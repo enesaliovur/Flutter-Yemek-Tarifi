@@ -1,17 +1,1 @@
-# yemek_tarifi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-espons![image](https://user-images.githubusercontent.com/61868498/140293901-c8cb057c-c6cb-4335-be82-dff2a9365898.png)
+espons![image](https://user-images.githubusercontent.com/61868498/140293934-fefc3a0e-707f-4a84-baa3-a1faa78f5280.png)
